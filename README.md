@@ -1,4 +1,5 @@
-Vu Tran - s3775589
+Vu Tran  
+s3775589
 
 ## Abount My Interests in IT
 
@@ -9,6 +10,18 @@ Vu Tran - s3775589
 You can use the [editor on GitHub](https://github.com/s3775589/Assessment/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## My Ideal Job
+
+https://www.seek.com.au/job/38348824?searchrequesttoken=79f5b3de-5881-4168-964a-1967392967a4&type=standout
+
+At the moment the job I am most interested in is app/game developing. This could be anything from games to educational applications. I am interested in programming although I have almost no knowledge about it however, I am currently in the process of learning. 
+
+The job listing above is looking for a Junior Programmer who specialises in Game Developing.  The role requires you to work for a gaming company to develop games for iOS, Android, Oculus (VR), Vive (VR) and more. 
+
+The position required you to have a passion for gaming and at least 2 years experience. The company uses Unity 3D to program their games so it is a requirement that you are highly proficient when it comes to using Unity 3D.  It is recommended that you should have programming experience with C++, Objective C and Javascript. Animation experience is desired as you will work with a number of animation programs such as 3DS Max and others. 
+
+At the moment I do have any experience or knowledge when it comes to the recommendations listed above. I do have limited knowledge of what the Unity 3D engine is however I have not used it myself. When it comes to programming, I do not have experience either. I do have some animation experience as I have previously used programs such as I have used Opentoonz before which I used to create a cartoon animation. 
 
 ### Markdown
 
