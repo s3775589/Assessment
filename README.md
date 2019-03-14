@@ -1,9 +1,6 @@
-Vu Tran
-
-s3775589
+Vu Tran - s3775589
 
 ## Abount My Interests in IT
-
 
 -	My current interest in IT is programming and cyber security. This started from when I was younger as I would watch my brother play games often which led me to playing games and receiving my first computer from him. Once I had enough money, I build my first computer which began my interest in hardware and shortly after, I built computers for all my friends. 
 -	I currently work as a Specalist Technician however, I would like to expand my career as I do not want to work in support forever. I did a lot of research in pathways and found that going to university was the best option for me. With this I decided on what interested me the most and found that RMIT had the most interesting course for me and offered online study which allows me to continue to work and gain more experience.
