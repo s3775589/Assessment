@@ -11,7 +11,7 @@ s3775589
 
 # My Ideal Job
 
-[link] https://www.seek.com.au/job/38572304?searchrequesttoken=14ab3853-6b6f-48bc-b46e-d97f28912097&type=standout
+[link]https://www.seek.com.au/job/38572304?searchrequesttoken=14ab3853-6b6f-48bc-b46e-d97f28912097&type=standout
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/48535282/54486490-3d01a100-48dd-11e9-804f-c216bd4e6137.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/48535282/54486491-3d9a3780-48dd-11e9-9c49-8e93c7d2b4ec.png)
