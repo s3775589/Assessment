@@ -73,35 +73,7 @@ You will need to know how to use Unity itself to edit the gameplay with the edit
 
 If the game is successful in its creation then you will be able to roll out the game for other people to download and play. As it is a game, and an open world game, there will be many bugs and issues that come with it. As this is always an issue, you will need to be able to be ready to alter the game so that the bugs no longer impact the gameplay. There is no way to avoid all bugs in the game and can only be fixed and altered once they appear. The best way to do this is to have beta testers who can play the game and create reports on when there are bugs present. Overall, the game itself will be able to provide entertainment to those interested in a fantasy role playing game.
 
+## References
 
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s3775589/Assessment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- https://jekyllrb.com/, Jekyll Themes, 
+- 
