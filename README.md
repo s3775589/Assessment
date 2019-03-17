@@ -1,6 +1,8 @@
 Vu Tran  
 s3775589
 
+![unnamed 1  (2)](https://user-images.githubusercontent.com/48535282/54486618-8ef6f680-48de-11e9-8af6-5038a696844a.jpg)
+
 # Abount My Interests in IT
 
 -	My current interest in IT is programming and cyber security. This started from when I was younger as I would watch my brother play games often which led me to playing games and receiving my first computer from him. Once I had enough money, I build my first computer which began my interest in hardware and shortly after, I built computers for all my friends. 
@@ -26,6 +28,10 @@ To obtain the skills and qualifications above, I believe the best pathway to get
 # Personal Test Results
 
 ## Results of the Tests
+
+[Aptitude Test.pdf](https://github.com/s3775589/Assessment/files/2974871/Aptitude.Test.pdf)
+[Learning Style Test.pdf](https://github.com/s3775589/Assessment/files/2974872/Learning.Style.Test.pdf)
+[Myers-Brigg Test.pdf](https://github.com/s3775589/Assessment/files/2974873/Myers-Brigg.Test.pdf)
 
 I completed three tests which were the Learning Style Test, the Myers-Brigg Test and the Aptitude Psychometric Test. All results for the above three tests are in the above links. The results give a little assistance to help you realise some things about yourself. This can be from suggestions on the best ways you can learn something, a bit about your personality and the aptitude test which helps you with how well you can come up with logical solutions.
 
