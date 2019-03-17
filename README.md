@@ -75,5 +75,7 @@ If the game is successful in its creation then you will be able to roll out the 
 
 ## References
 
-- https://jekyllrb.com/, Jekyll Themes, 
-- 
+- https://jekyllrb.com/, Jekyll, 'Slate' theme.
+- http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml, 'What's Your Learning Style? 20 Questions', Pennsylvania Higher Education Assistance Agency.
+- https://www.psychometricinstitute.com.au/free-aptitude-tests.asp, 'Free Practice Aptitute Test', Institute of Psychometric Coaching.
+- https://www.truity.com/test/type-finder-personality-test-new, 'The TypeFinder Personality Test, Truity.
